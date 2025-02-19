@@ -44,6 +44,7 @@ HF_TOKEN=your_huggingface_token
 ```  
 
 ### 4️⃣ Run the Streamlit app  
+Go to complete.py and run 
 ```bash
 streamlit run app.py  
 ```  
