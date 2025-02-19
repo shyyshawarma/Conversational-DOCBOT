@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+pillow
+python-dotenv
+google-generativeai
+chromadb
+langchain
+langchain_huggingface
+langchain_groq
