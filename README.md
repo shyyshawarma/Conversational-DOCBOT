@@ -2,7 +2,6 @@
 
 Conversational-DOCBOT is an **interactive Retrieval-Augmented Generation (RAG) application** that enables users to **upload PDFs and chat with them** using **Streamlit**. It integrates **Gemini Vision** for image analysis, **ChromaDB** for vector storage, and **Groq's DeepSeek model** for AI-powered responses.  
 
----
 
 ## 🔥 Features  
 
@@ -12,7 +11,7 @@ Conversational-DOCBOT is an **interactive Retrieval-Augmented Generation (RAG) a
 ✅ **Conversational AI** – Enables **chat-based interactions** with PDFs  
 ✅ **Streamlit UI** – Simple and interactive **web interface**  
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -22,7 +21,7 @@ Conversational-DOCBOT is an **interactive Retrieval-Augmented Generation (RAG) a
 - **DeepSeek LLM (via Groq)** for response generation  
 - **PyMuPDF (Fitz)** for PDF text/image extraction  
 
----
+
 
 ## 🚀 How to Run  
 
@@ -49,7 +48,7 @@ HF_TOKEN=your_huggingface_token
 streamlit run app.py  
 ```  
 
----
+
 
 ## 📌 Usage  
 
@@ -60,7 +59,7 @@ streamlit run app.py
 5️⃣ **Chat with your document** using an AI-powered interface  
 6️⃣ **Receive accurate, context-aware responses**  
 
----
+
 
 ## 🎯 Future Improvements  
 
