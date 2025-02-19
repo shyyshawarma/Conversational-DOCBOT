@@ -3,7 +3,7 @@
 🚀 Conversational RAG Chatbot is an interactive Retrieval-Augmented Generation (RAG) application that allows users to upload PDFs and chat with them using Streamlit. It leverages Gemini Vision for image analysis, ChromaDB for vector storage, and Groq's DeepSeek model for response generation.
 
 <br/>
-#🔥 Features
+## 🔥 Features
 
 ✅ PDF Processing – Extracts text and images from PDFs<br/>
 ✅ Image Analysis – Uses Gemini Vision to analyze images, tables, and graphs<br/>
@@ -12,7 +12,7 @@
 ✅ Streamlit UI – Simple and interactive web interface<br/>
 <br/>
 
-#🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python, Streamlit<br/>
 LangChain, ChromaDB, Hugging Face Embeddings<br/>
@@ -22,7 +22,7 @@ PyMuPDF (Fitz) for PDF text/image extraction<br/>
 <br/>
 
 
-#🚀 How to Run
+## 🚀 How to Run
 
 
 1️⃣ Clone the repository
@@ -50,7 +50,7 @@ streamlit run app.py
 
 ```
 <br/>
-#📌 Usage
+## 📌 Usage
 
 1️⃣ Upload a PDF<br />
 2️⃣ The system extracts text & images<br />
@@ -59,7 +59,7 @@ streamlit run app.py
 5️⃣ Ask questions about the document in the chat interface<br />
 6️⃣ Get accurate, context-aware responses<br />
 <br/>
-#🎯 Future Improvements
+## 🎯 Future Improvements
 
 📊 Advanced Data Visualization for extracted insights<br />
 🤖 Multi-LLM Support for diverse responses<br />
