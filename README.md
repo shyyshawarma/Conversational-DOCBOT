@@ -2,27 +2,27 @@
 
 🚀 Conversational RAG Chatbot is an interactive Retrieval-Augmented Generation (RAG) application that allows users to upload PDFs and chat with them using Streamlit. It leverages Gemini Vision for image analysis, ChromaDB for vector storage, and Groq's DeepSeek model for response generation.
 
-<br/><br/>
-🔥 Features
+<br/>
+#🔥 Features
 
 ✅ PDF Processing – Extracts text and images from PDFs<br/>
 ✅ Image Analysis – Uses Gemini Vision to analyze images, tables, and graphs<br/>
 ✅ Vector Storage – Stores extracted data in ChromaDB for efficient retrieval<br/>
 ✅ Conversational AI – Enables chat-based interactions with PDFs<br/>
 ✅ Streamlit UI – Simple and interactive web interface<br/>
-<br/><br/>
+<br/>
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Python, Streamlit<br/>
 LangChain, ChromaDB, Hugging Face Embeddings<br/>
 Gemini Vision for image insights<br/>
 DeepSeek LLM (via Groq) for response generation<br/>
 PyMuPDF (Fitz) for PDF text/image extraction<br/>
-<br/><br/>
+<br/>
 
 
-🚀 How to Run
+#🚀 How to Run
 
 
 1️⃣ Clone the repository
@@ -49,8 +49,8 @@ HF_TOKEN=your_huggingface_token
 streamlit run app.py
 
 ```
-<br/><br/>
-📌 Usage
+<br/>
+#📌 Usage
 
 1️⃣ Upload a PDF<br />
 2️⃣ The system extracts text & images<br />
@@ -58,11 +58,13 @@ streamlit run app.py
 4️⃣ Extracted data is stored in ChromaDB<br />
 5️⃣ Ask questions about the document in the chat interface<br />
 6️⃣ Get accurate, context-aware responses<br />
-<br/><br/>
-🎯 Future Improvements
+<br/>
+#🎯 Future Improvements
 
 📊 Advanced Data Visualization for extracted insights<br />
 🤖 Multi-LLM Support for diverse responses<br />
-<br/><br/><br/><br/><br/>
+<br/>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />
 🛠 Built for seamless document understanding and interactive AI-driven insights. 🚀✨
 
